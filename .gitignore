@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### properties/YAML 파일 ###
+*.yaml
+*.properties
